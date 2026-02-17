@@ -15,7 +15,7 @@ from nav_msgs.msg import OccupancyGrid
 from nav_msgs.srv import GetMap
 import numpy
 
-FULL_NAME = "JESUS_ALEXIS_PEREZ_LEON"
+FULL_NAME = "JESUS ALEXIS PEREZ LEON"
 
 class CostMapNode(Node):
     def get_inflated_map(self, static_map, inflation_cells):
