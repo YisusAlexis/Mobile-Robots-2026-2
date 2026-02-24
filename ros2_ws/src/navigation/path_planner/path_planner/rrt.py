@@ -20,7 +20,7 @@ import numpy
 import heapq
 import math
 
-NAME = "FULL NAME"
+NAME = "Jesus ALexis Perez Leon"
 
 class TreeNode:
     def __init__(self, x, y, parent=None):
